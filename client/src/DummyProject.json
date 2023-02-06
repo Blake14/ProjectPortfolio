@@ -1,0 +1,33 @@
+{
+  "id": 1,
+  "title": "Serverless Portfolio",
+  "contributors": [],
+  "tags": [
+    "ReactJS",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Styled Components",
+    "Serverless",
+    "Back-End",
+    "Front-End",
+    "AWS"
+  ],
+  "skills": ["AWS", "ReactJS", "JavaScript", "HTML", "CSS"],
+  "enjoymentRating": 9,
+  "competencyRating": 5,
+  "links": [
+    {
+      "name": "GitHub",
+      "url": "HTTPS://Github.com/Blake14/ServerlessPortfolio",
+    },
+  ],
+  "media": [],
+  "comments": [],
+  "posts": [],
+  "public": true,
+  "showCaseImage": null,
+  "linkedProjects": [],
+  "lastUpdated": "2023-01-04 00:00",
+  "dateCreated": "2023-01-04 00:00"
+}
