@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-serverlessportflio-dev-171711-authRole",
+      "UnauthRoleArn": "arn:aws:iam::466280714635:role/amplify-serverlessportflio-dev-171711-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::466280714635:role/amplify-serverlessportflio-dev-171711-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-serverlessportflio-dev-171711-deployment",
+      "UnauthRoleName": "amplify-serverlessportflio-dev-171711-unauthRole",
+      "StackName": "amplify-serverlessportflio-dev-171711",
+      "StackId": "arn:aws:cloudformation:us-west-1:466280714635:stack/amplify-serverlessportflio-dev-171711/3a92ff90-a0f4-11ed-ac0b-027a530bba53",
+      "AmplifyAppId": "d2hn3zspkk9lw4"
+    },
+    "categories": {
+      "auth": {
+        "serverlessportflio78e7754e": {}
+      },
+      "storage": {
+        "portfolioItems": {}
+      }
+    }
+  }
+}

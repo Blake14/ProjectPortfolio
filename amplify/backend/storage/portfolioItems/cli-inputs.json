@@ -1,0 +1,14 @@
+{
+  "resourceName": "portfolioItems",
+  "policyUUID": "8c59c8d0",
+  "bucketName": "portfolio-items",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "READ"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
